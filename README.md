@@ -8,3 +8,4 @@
  * [Печенье с какао](https://github.com/gorodock/olia-mo-recipes/blob/master/cocoa-cookies.md)
  * [Печенье с клубникой и сливками](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-strawberries-and-cream.md)
 [Печенье с чаем Матча на желтках](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-matcha-tea.md)
+[Печенье с шоколадом](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-chocolade.md)
