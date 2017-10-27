@@ -7,3 +7,4 @@
  * [Печенье с клюквой и белым шоколадом в апельсиновой глазури](https://github.com/gorodock/olia-mo-recipes/blob/master/Cranberry-white-chokolate-cookies-with-orange-glazes.md)
  * [Печенье с какао](https://github.com/gorodock/olia-mo-recipes/blob/master/cocoa-cookies.md)
  * [Печенье с клубникой и сливками](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-strawberries-and-cream.md)
+[Печенье с чаем Матча на желтках](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-matcha-tea.md)
