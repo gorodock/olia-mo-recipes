@@ -11,3 +11,4 @@
  * [Печенье с шоколадом](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-chocolade.md)
  * [Ричарелли из темного шоколада](https://github.com/gorodock/olia-mo-recipes/blob/master/dark-chocolade-richarelyes.md)
  * [Торт «Сникерс»](https://github.com/gorodock/olia-mo-recipes/blob/master/snickers-cake.md)
+ * [Шоколадные вафли](https://github.com/gorodock/olia-mo-recipes/blob/master/chocolade-wafles.md)
