@@ -9,3 +9,4 @@
  * [Печенье с клубникой и сливками](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-strawberries-and-cream.md)
 [Печенье с чаем Матча на желтках](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-matcha-tea.md)
 [Печенье с шоколадом](https://github.com/gorodock/olia-mo-recipes/blob/master/cookies-with-chocolade.md)
+[Ричарелли из темного шоколада](https://github.com/gorodock/olia-mo-recipes/blob/master/dark-chocolade-richarelyes.md)
