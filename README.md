@@ -1,2 +1,1 @@
-# olia-mo-recipes
-Рецепты Olia-mo
+# Рецепты Olia-mo
