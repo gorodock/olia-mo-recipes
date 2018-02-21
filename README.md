@@ -13,3 +13,4 @@
  * [Торт «Сникерс»](https://github.com/gorodock/olia-mo-recipes/blob/master/snickers-cake.md)
  * [Шоколадные вафли](https://github.com/gorodock/olia-mo-recipes/blob/master/chocolade-wafles.md)
  * [Эрл грей шоколадное](https://github.com/gorodock/olia-mo-recipes/blob/master/earl-grey-cookies.md)
+ * [Торт «клубничная валентинка»](https://github.com/gorodock/olia-mo-recipes/blob/master/Клубничная%20Валентинка_Рецепт.pdf)
