@@ -14,4 +14,4 @@
  * [Шоколадные вафли](https://github.com/gorodock/olia-mo-recipes/blob/master/chocolade-wafles.md)
  * [Эрл грей шоколадное](https://github.com/gorodock/olia-mo-recipes/blob/master/earl-grey-cookies.md)
  * [Торт «клубничная валентинка»](https://github.com/gorodock/olia-mo-recipes/blob/master/Клубничная%20Валентинка_Рецепт.pdf)
- * [Имбирные пряники]https://github.com/gorodock/olia-mo-recipes/blob/master/Lesson_2.pdf)
+ * [Имбирные пряники](https://github.com/gorodock/olia-mo-recipes/blob/master/Lesson_2.pdf)
