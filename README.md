@@ -15,3 +15,5 @@
  * [Эрл грей шоколадное](https://github.com/gorodock/olia-mo-recipes/blob/master/earl-grey-cookies.md)
  * [Торт «клубничная валентинка»](https://github.com/gorodock/olia-mo-recipes/blob/master/Клубничная%20Валентинка_Рецепт.pdf)
  * [Имбирные пряники](https://github.com/gorodock/olia-mo-recipes/blob/master/Lesson_2.pdf)
+ * [Торт-сердце](https://github.com/gorodock/olia-mo-recipes/blob/master/heart-cake.pdf)
+ * [Шпаргалка для кондитера](https://github.com/gorodock/olia-mo-recipes/blob/master/cheat-sheet-of-confectioner.pdf)
