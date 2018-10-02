@@ -17,4 +17,5 @@
  * [Имбирные пряники](https://github.com/gorodock/olia-mo-recipes/blob/master/Lesson_2.pdf)
  * [Торт-сердце](https://github.com/gorodock/olia-mo-recipes/blob/master/heart-cake.pdf)
  * [Торт "Пряное яблоко"](https://github.com/gorodock/olia-mo-recipes/blob/master/spicy-apple.pdf)
+ * [Торт "Шоколадный орех"](https://github.com/gorodock/olia-mo-recipes/blob/chokolate-peanut-cake.pdf)
  * [Шпаргалка для кондитера](https://github.com/gorodock/olia-mo-recipes/blob/master/cheat-sheet-of-confectioner.pdf)
